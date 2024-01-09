@@ -1,3 +1,28 @@
+# Hello there 👋
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Aleshichev Igor"
+        self.role = "Python Developer"
+        self.language_spoken = ["uk_UA", "en_US", "ru_RU"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
+
+
 ### 💻 Technologies:
 
 <div>
