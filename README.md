@@ -1,10 +1,7 @@
-# Hello there 👋
+<h1 align="center">Hi there 👋</h1>
+
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class SoftwareEngineer:
 
     def __init__(self):
