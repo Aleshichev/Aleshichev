@@ -30,18 +30,17 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| <a href="https://netology.ru">Старт в программировании</a>      | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| <a href="https://stepik.org/cert/1474123" target="_blank">Python generation</a>      | 03/2022 - 05/2022 |
+| <a href="https://www.udemy.com/certificate/UC-95f50749-e2f0-4f09-b71b-be7a672c5556/" target="blank">Practical Python SoftServe Academy</a>                    | 04/2023 - 08/2023 |
+| <a href="https://www.codecademy.com/profiles/IgorAleshichev/certificates/607878ed81004d0017706259" target="blank">Build Python Web Apps with Django Skill Path</a>                    | 06/2022 - 09/2022 |
+| <a href="https://www.codecademy.com/profiles/IgorAleshichev/certificates/18580789eaba28f09e116f4fc2acec44" target="blank">Learn Intermediate Python 3 Course</a>                    | 06/2022 - 08/2022 |
+| <a href="https://www.codecademy.com/profiles/IgorAleshichev/certificates/042a4e5884e3eb6ea1f2a12be6abb851" target="blank">Learn SQL Course</a>                    | 06/2022 - 08/2022 |
+| <a href="https://www.udemy.com/certificate/UC-95f50749-e2f0-4f09-b71b-be7a672c5556/" target="blank">Website on Django 3.1</a>                    | 05/2022 - 07/2022 |
+| <a href="https://www.udemy.com/certificate/UC-d05c029d-d093-4c50-9850-c7cc63d4f729/" target="blank">Python 100 Days of Code</a>                  | 03/2022 - 06/2022 |
+| <a href="https://www.udemy.com/certificate/UC-fc29a49a-3408-4dbc-8174-522eb0a5b74a/" target="blank">Python + Django</a>      | 04/2022 - 06/2022 |
 
 
 ### ⚙️ GitHub statistics:
