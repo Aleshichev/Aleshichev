@@ -70,7 +70,9 @@ me.say_hi()
 | <a href="https://www.udemy.com/certificate/UC-d05c029d-d093-4c50-9850-c7cc63d4f729/" target="blank">Python 100 Days of Code</a>                  | 03/2022 - 06/2022 |
 | <a href="https://www.udemy.com/certificate/UC-fc29a49a-3408-4dbc-8174-522eb0a5b74a/" target="blank">Python + Django</a>      | 04/2022 - 06/2022 |
 
+[![codewars](https://www.codewars.com/users/Aleshichev/badges/large)](https://www.codewars.com/users/Aleshichev)   
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aleshichev)
 ### ⚙️ GitHub statistics:
 
 <table>
