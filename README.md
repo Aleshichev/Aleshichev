@@ -60,7 +60,7 @@ me.say_hi()
 
 ### 💻 Courses:
 
-| Курсы                                                           | Дата              |
+| Courses                                                           | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | <a href="https://www.udemy.com/certificate/UC-95f50749-e2f0-4f09-b71b-be7a672c5556/" target="blank">Practical Python SoftServe Academy</a>                    | 04/2023 - 08/2023 |
 | <a href="https://www.codecademy.com/profiles/IgorAleshichev/certificates/607878ed81004d0017706259" target="blank">Build Python Web Apps with Django Skill Path</a>                    | 06/2022 - 09/2022 |
