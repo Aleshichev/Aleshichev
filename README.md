@@ -2,7 +2,7 @@
 
 
 ```python
-class SoftwareEngineer:
+class PythonWebDeveloper:
 
     def __init__(self):
         self.name = "Aleshichev Igor"
@@ -13,7 +13,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = PythonWebDeveloper()
 me.say_hi()
 ```
 
